@@ -27,7 +27,3 @@
 - **Laços de repetição (for)** para manipulação das matrizes  
 - **Arrays bidimensionais** para armazenamento dos dados  
 
----
-
-## 📂 Estrutura do Código  
-
